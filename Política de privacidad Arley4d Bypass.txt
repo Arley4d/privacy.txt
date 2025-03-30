@@ -1,0 +1,35 @@
+📜 Política de Privacidad para la App "Arley4d Bypass"
+
+Última actualización: 29 de marzo de 2025
+1. Recopilación de Información
+
+La aplicación Arley4d Bypass NO recopila, almacena ni comparte información personal del usuario. No solicitamos nombre, correo electrónico, número de teléfono ni ningún otro dato identificable.
+2. Permisos de la Aplicación
+
+La app puede solicitar ciertos permisos del sistema, únicamente para su funcionamiento:
+
+    Almacenamiento: para guardar o leer archivos que el usuario descarga o utiliza.
+
+    Acceso a Internet: para realizar descargas desde servidores o sitios web, según instrucciones del usuario.
+
+    Gestión de archivos (Android 11+): para que el usuario pueda acceder a carpetas necesarias dentro del almacenamiento.
+
+Estos permisos no se usan para recopilar datos personales ni compartir información con terceros.
+3. Publicidad y Analítica
+
+La aplicación no contiene publicidad de terceros ni servicios de analítica. No usamos Google Analytics, Firebase, ni ningún sistema que rastree el comportamiento del usuario.
+4. Uso de Archivos Externos
+
+La app puede interactuar con archivos ubicados en servicios externos como servidores FTP, 1fichier, u otros, según lo configurado por el propio usuario. Esta interacción ocurre localmente y no implica la recolección de datos.
+5. Seguridad
+
+La aplicación no almacena datos sensibles y no transmite información privada. Toda la actividad ocurre bajo la responsabilidad del usuario final.
+6. Cambios a esta Política
+
+Nos reservamos el derecho de actualizar esta política en el futuro. Cualquier cambio será reflejado en esta misma página.
+7. Contacto
+
+Si tienes preguntas o inquietudes, puedes escribirnos a:
+
+📧 RomsServer@hotmail.com
+🌐 https://arley4d.com
