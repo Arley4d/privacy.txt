@@ -9,9 +9,7 @@ La aplicación Arley4d Bypass NO recopila, almacena ni comparte información per
 La app puede solicitar ciertos permisos del sistema exclusivamente para su funcionamiento técnico. Estos incluyen:
 
     Almacenamiento (READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE): para guardar y acceder a archivos utilizados por el usuario.
-
-    Gestión del almacenamiento externo (MANAGE_EXTERNAL_STORAGE): en dispositivos con Android 11 (API 30) o superior, para permitir el acceso completo a carpetas necesarias como Download, ROMs, y otras utilizadas por el usuario.
-
+  
     Acceso a Internet: para permitir la descarga de archivos desde servidores o enlaces proporcionados por el propio usuario.
 
 🔒 Estos permisos no se utilizan para recopilar datos personales ni se comparte información con terceros.
